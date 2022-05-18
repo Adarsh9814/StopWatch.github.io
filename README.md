@@ -9,7 +9,7 @@ user can start timer and stop timer and also reset the timer.
 
 ## Demo
 
-[Demo]()
+[Demo](https://adarsh9814.github.io/StopWatch.github.io/)
 ## Features
 
 -Start timer
