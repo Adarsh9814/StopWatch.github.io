@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(80, 159, 193, 0.86);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#container{
+    color: #d7d7d7;
+}
+.digit{
+    font-size: 4rem;
+    font-weight: bold;
+}
+.txt{
+    font-size: 1rem;
+    font-weight: bold;
+}
+#btn-container{
+    text-align: center;
+    margin-top: 40px;
+}
+.btn{
+    padding: 7px 25px;
+    font-size: 15px;
+    margin: 0px 10px;
+    color: white;
+    border: 0px;
+    cursor: pointer;
+}
+#start{
+    background-color: cornflowerblue;
+}
+#stop{
+    background-color: #3498db;
+}
+#reset{
+    background-color: red;
+}
